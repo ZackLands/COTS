@@ -1,16 +1,14 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0EA",
+	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "Bridge",
+			"Name": "ModelingToolsEditorMode",
 			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
+			"TargetAllowList": [
+				"Editor"
 			]
 		}
 	]
